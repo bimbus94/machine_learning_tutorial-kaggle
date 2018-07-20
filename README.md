@@ -1,5 +1,5 @@
 # machine_learning_tutorial-kaggle
-Notebook powstał na podstawie tutorialu Machine Learningu na Kaggle.
+Notebook powstał na podstawie tutorialu Machine Learningu na Kaggle. Jest to kopia z mojego Kaggle'a https://www.kaggle.com/bimbus94/rozwiazanie-tutorialu-machine-learning
 
 ### Wykorzystywane rozwiązania:
 * Python3
